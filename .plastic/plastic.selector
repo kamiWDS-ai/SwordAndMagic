@@ -1,0 +1,4 @@
+repository "SwordAndMagic@local"
+  path "/"
+    br "/main"
+    co "/main"
